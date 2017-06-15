@@ -1,0 +1,14 @@
+name: LookDistance
+main: com.smk7758.github.LookDistance.Main
+version: 0.0.1
+author: smk7758
+website(my): Twitter - smk7758
+website(plugin): none
+permissions:
+commands:
+  LookDistance:
+    description: You can change your gamemode.
+    aliases: lkd
+  SetDistance:
+    description: You can change your gamemode.
+    aliases: setd
